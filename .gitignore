@@ -1,0 +1,6 @@
+.env
+.env.*
+*.sqlite
+*.sqlite-*
+node_modules/
+worker-artifacts/

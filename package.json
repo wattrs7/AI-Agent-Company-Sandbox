@@ -1,0 +1,9 @@
+{
+  "name": "ai-agent-company-sandbox",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Disposable coding-worker acceptance fixture; deliberately failing initial addition tests",
+  "scripts": { "test": "node --test test/add.test.mjs" },
+  "engines": { "node": ">=24" }
+}
